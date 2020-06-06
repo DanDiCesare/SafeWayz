@@ -3,7 +3,7 @@ Android app for safe navigation!
 
 ## Description
 A navigation app for the San Francisco area. Utilizes past crime data to provide the safest and shortest path between two locations.
-
+[![Demo SafeWayz](https://gifs.com/gif/safewayz-lxyDy5)](https://youtu.be/RhYXbICj1lg)
 ## Team
 * Daniel Di Cesare
 * Aditya Sharma
