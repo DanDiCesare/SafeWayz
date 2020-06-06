@@ -1,5 +1,5 @@
 <a href="url"><img src="https://raw.githubusercontent.com/DanDiCesare/SafeWayz/master/Android/SafeWays/safeways.png" align="left" height="125" width="125" ></a>
-<p></p>
+<br/>
 Android app for safe navigation!
 
 ## Description
