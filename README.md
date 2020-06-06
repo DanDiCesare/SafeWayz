@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/DanDiCesare/SafeWayz/master/Android/SafeWays/safeways.png)
+![alt text](https://raw.githubusercontent.com/DanDiCesare/SafeWayz/master/Android/SafeWays/safeways.png =125x125)
 Android app for safe navigation!
 
 ## Description
