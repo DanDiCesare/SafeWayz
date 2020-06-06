@@ -1,4 +1,4 @@
-# SafeWayz
+![alt text](https://raw.githubusercontent.com/DanDiCesare/SafeWayz/master/Android/SafeWays/safeways.png)
 Android app for safe navigation!
 
 ## Description
